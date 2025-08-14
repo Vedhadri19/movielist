@@ -14,3 +14,8 @@ A simple and responsive MovieList web application built with **ReactJS**, featur
 - **JavaScript (ES6+)**
 - **CSS / Styled Components**
 - **React Hooks** for state management
+
+## 📷 Screenshots
+
+### Home Page
+![Home Page Screenshot](homepage.png)
