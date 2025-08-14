@@ -1,17 +1,16 @@
-<<<<<<< HEAD
-# movielist
-A responsive MovieList web application built with React
-=======
-# React + Vite
+# 🎬 MovieList
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive MovieList web application built with **ReactJS**, featuring an intuitive interface to browse movies, add them to favorites, and manage your favorite list easily.
 
-Currently, two official plugins are available:
+## ✨ Features
+- **Home Page** – Browse a list of movies with a clean and smooth UI.
+- **Add to Favorites** – Save your favorite movies for quick access.
+- **Remove from Favorites** – Easily remove movies from your favorites list.
+- **Responsive Design** – Works seamlessly across desktop and mobile.
+- **Smooth UI** – Minimal and user-friendly interface for a better experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> a5ef010 (work done)
+## 🛠️ Tech Stack
+- **ReactJS**
+- **JavaScript (ES6+)**
+- **CSS / Styled Components**
+- **React Hooks** for state management
